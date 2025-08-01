@@ -27,9 +27,9 @@ A free, offline-ready audio transcription backend built with **Spring Boot** and
 
 ## 🚀 Try It Live
 
-Frontend: [https://your-frontend.onrender.com](https://your-frontend.onrender.com)  
-Backend API: [https://your-backend.onrender.com/api/transcribe](https://your-backend.onrender.com/api/transcribe)
-
+Frontend: [https://audiotranscriberfront.onrender.com](https://audiotranscriberfront.onrender.com)  
+Backend API: [https://audiotranscriber-with-java.onrender.com](https://audiotranscriber-with-java.onrender.com)
+![img.png](img.png)
 > Upload a short audio file (MP3 or WAV) and get instant text transcription.
 
 ---
